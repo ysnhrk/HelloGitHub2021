@@ -4,6 +4,7 @@
 MacにGit, GitHub Desktopをインストール
 GitHub用のフォルダを作成
 VSCodeでファイルを作成
+GitHub Desktopでコミット
 
 ## TIPS
 ・Macの隠しファイルの表示：Command+Shift+[.]
