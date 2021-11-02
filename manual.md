@@ -29,6 +29,7 @@
 - 作業中ファイルをコミットする場合は WIP: (Work In Progress) と付記
 - MarkDownにはHTMLタグを混ぜることができる
 - README.md にはアプリの紹介文や共同編集者へのメッセージを書く
+- GitHubではPushとPullのボタンがいっしょになっている
 
 ## 保留
 2.6 VSCodeからGitを使う→MacのXCodeのアップデートが必要。
